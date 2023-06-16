@@ -39,6 +39,8 @@ class ConfigLoader:
 
 
     def setup_data(self, config):
+        self.raw_data = config.get('raw_data')
+        
         self.raw_data_train = config.get('raw_data_train')
         self.raw_data_val = config.get('raw_data_val')
         self.raw_data_test = config.get('raw_data_test')

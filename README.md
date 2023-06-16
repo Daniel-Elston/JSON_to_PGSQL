@@ -17,6 +17,10 @@ Textual data is often unstructured and can be be extremely messy. Having an abil
 
 The first stage of this project will raw unstructured data in .JSON format will be parsed using Python then stored in a PostgreSQL database. Once the data has been stored in an organised manner, PostgreSQL queries will used to export data ready for processing in Python.
 
+## Raw Data
+
+https://www.reddit.com/r/all.json
+
 ## Technologies
 
 * Python (JSON data handling)

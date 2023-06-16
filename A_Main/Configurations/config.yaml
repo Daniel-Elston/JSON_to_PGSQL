@@ -1,17 +1,18 @@
 project:
-  name: 'Text_Processing_Pipeline'
-  dir: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/Text_Processing_Pipeline'
+  name: 'JSON_to_PGSQL'
+  dir: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL'
 
 sys:
   fig_size_m: [20,15] # Monitor
   fig_size_l: [12,12] # Laptop
 
 data:
-  raw_data_train: ''
-  raw_data_val: ''
-  raw_data_test: ''
+  raw_data: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/A_Raw/raw_data.json'
+  # raw_data_train: ''
+  # raw_data_val: ''
+  # raw_data_test: ''
 
 sdo:
-  sdo_parq: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/NLP_Disaster_Tweets/Data/Serialised_Data_Objects/Parq'
-  sdo_pkl: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/NLP_Disaster_Tweets/Data/Serialised_Data_Objects/Pkl'
+  sdo_parq: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/Serialised_Data_Objects/Parq'
+  sdo_pkl: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/Serialised_Data_Objects/Pkl'
 
