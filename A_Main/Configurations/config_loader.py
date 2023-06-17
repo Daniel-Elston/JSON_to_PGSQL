@@ -9,6 +9,7 @@ class ConfigLoader:
             self.config = yaml.safe_load(file)
         self.actions = {
             'project': self.setup_project,
+            'password': self.setup_passwords,
             'sys': self.setup_sys,
             
             'data': self.setup_data,
@@ -32,6 +33,9 @@ class ConfigLoader:
         self.project_name = config['name']
         self.project_dir = config['dir']
         sys.path.append(self.project_dir)
+
+    def setup_passwords(self, config):
+        self.postgres_password = config.get('postgres_password')
 
     def setup_sys(self, config):
         self.fig_size_m = tuple(config['fig_size_m'])

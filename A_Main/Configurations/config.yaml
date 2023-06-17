@@ -2,6 +2,9 @@ project:
   name: 'JSON_to_PGSQL'
   dir: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL'
 
+password:
+  postgres_password: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Sensitive/postgresql_pw.txt'
+
 sys:
   fig_size_m: [20,15] # Monitor
   fig_size_l: [12,12] # Laptop
