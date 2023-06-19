@@ -50,6 +50,7 @@ class ConfigLoader:
         self.raw_data_test = config.get('raw_data_test')
         
     def setup_sdo(self, config):
+        self.sdo_feather = config.get('sdo_feather')
         self.sdo_parq = config.get('sdo_parq')
         self.sdo_pkl = config.get('sdo_pkl')
         

@@ -16,6 +16,7 @@ data:
   # raw_data_test: ''
 
 sdo:
+  sdo_feather: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/Serialised_Data_Objects/Feather'
   sdo_parq: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/Serialised_Data_Objects/Parq'
   sdo_pkl: 'C:/Users/delst/OneDrive/Desktop/Code/Workspace/JSON_to_PGSQL/Data/Serialised_Data_Objects/Pkl'
 

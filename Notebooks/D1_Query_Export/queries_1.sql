@@ -1,6 +1,6 @@
--- SELECT * 
--- FROM reddit_posts
--- ;
+SELECT * 
+FROM reddit_posts
+;
 
 -- SELECT
 -- title, 
