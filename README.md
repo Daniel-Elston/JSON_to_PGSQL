@@ -1,5 +1,4 @@
-
-![GitBanner3](https://user-images.githubusercontent.com/98388088/158277311-535b2e53-190e-4060-a383-42e9f308ca75.png)
+![pgAdminDashboard](pgAdminDash.png)
 
 <hr>
 
