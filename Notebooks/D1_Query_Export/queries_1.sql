@@ -43,8 +43,8 @@ FROM reddit_posts
 -- LIMIT 3
 -- ;
 
-SELECT secure_media
-FROM reddit_posts
+-- SELECT secure_media
+-- FROM reddit_posts
 
 -- SELECT preview.images
 -- FROM reddit_posts
