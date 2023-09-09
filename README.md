@@ -1,4 +1,4 @@
-![pgAdminDashboard](pgAdminDash.png)
+![pgAdminResult](pgAdmin_result.png)
 
 <hr>
 
