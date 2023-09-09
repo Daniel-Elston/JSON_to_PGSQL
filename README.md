@@ -6,13 +6,13 @@
 
 The purpose of this project is to develop an understanding of JSON file formats and how unstructured text data can be stored in a PostgreSQL database, and used in Python. 
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Complete]
 
 <hr>
 
 ## Project Objective
 
-Textual data is often unstructured and can be be extremely messy. Having an ability to appropriately store this form of data is essential for ML model building and generating insights.
+Textual data is often unstructured and can be extremely messy. Having the ability to appropriately store this form of data is essential for ML model building and generating insights.
 
 The first stage of this project will raw unstructured data in .JSON format will be parsed using Python then stored in a PostgreSQL database. Once the data has been stored in an organised manner, PostgreSQL queries will used to export data ready for processing in Python.
 
