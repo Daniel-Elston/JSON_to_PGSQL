@@ -6,7 +6,7 @@
 
 The purpose of this project is to develop an understanding of JSON file formats and how unstructured text data can be stored in a PostgreSQL database, and used in Python. 
 
-For JSON parsing code, please see:
+For JSON parsing code, please see: <br/>
  `https://github.com/Daniel-Elston/JSON_to_PGSQL/blob/master/Notebooks/B1_JSON_Exploration/json_exploration_3.ipynb`
 
 #### -- Project Status: [Complete]
